@@ -1,0 +1,18 @@
+
+# METHOD URL
+# Content-Type:application/json
+# Authorization:Base\Token\etc
+# {
+#   "DATA"
+# }
+
+# API for creating User
+
+# POST http://127.0.0.1:8000/api/register/
+# Content-Type: application/json
+# {
+#     "username":"django",
+#     "email":"django@gmail.com",
+#     "password":"Password@123",
+#     "phone":"9876543210",
+# }
